@@ -43,12 +43,15 @@
 ---
 ![image.](asset/images/WX20231124-120329@2x.png)
 
-<img src="asset/images/1700797160959.png" width="400"/>  <img src="asset/images/1700797178853.png" width="400"/>
-
 The proposed ParaImage dataset mainly includes two parts:
+
 (a) ParaImage-Big: High-quality images with generative captions (ParaImage-Big) are primarily employed for the paragraph-image alignment learning in Stage 2.
+
 (b) ParaImage-Small: Aesthetic images with manual long-term description (ParaImage- Small) are primarily used for quality-tuning in Stage 3.
 
+
+
+<img src="asset/images/1700797160959.png" width="400"/>  <img src="asset/images/1700797178853.png" width="400"/>
 
 
 **ParaImage-Small** is a few thousand high-quality images are thoughtfully selected from LAION-Aesthetics, adhering to common principles in photography, then professionally annotated by skilled annotators.
