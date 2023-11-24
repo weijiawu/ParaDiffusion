@@ -25,35 +25,50 @@
 ![image.](asset/images/WX20231124-120233@2x.png)
 
 
-# 🔧 Dependencies and Installation
+## 🔧 Dependencies and Installation
 
 - Python >= 3.10 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 - [PyTorch >= 1.13.0+cu11.7](https://pytorch.org/)
 
 
-# ⏬ Download Models
+## ⏬ Download Models
 
 
-# 💻 Inference
+## 💻 Inference
 
 
 
-# ✏️ Paragraph-Image Dataset: ParaImage-Small
-ParaImage-Small is a few thousand high-quality images are thoughtfully selected from LAION-Aesthetics, adhering to common principles in photography, then professionally annotated by skilled annotators. 
+## ✏️ Paragraph-Image Dataset: ParaImage-Small
+ 
 ---
 ![image.](asset/images/WX20231124-120329@2x.png)
 
 <img src="asset/images/1700797160959.png" width="400"/>  <img src="asset/images/1700797178853.png" width="400"/>
 
+The proposed ParaImage dataset mainly includes two parts:
+(a) ParaImage-Big: High-quality images with generative captions (ParaImage-Big) are primarily employed for the paragraph-image alignment learning in Stage 2.
+(b) ParaImage-Small: Aesthetic images with manual long-term description (ParaImage- Small) are primarily used for quality-tuning in Stage 3.
 
 
-# ✏️ Paragraph-Image Prompts Eval: ParaPrompts-400
+
+**ParaImage-Small** is a few thousand high-quality images are thoughtfully selected from LAION-Aesthetics, adhering to common principles in photography, then professionally annotated by skilled annotators.
+
+
+The ParaImage-Small can be download from Google Drive(keep stay tuned)
+
+## ✏️ New Prompts Eval: ParaPrompts-400
+
+The current test prompts focus on short text-to-image generation, ignoring the evaluation for paragraph-to-image generation, we introduced a new evaluation set of prompts called ParaPrompts, including 400 long-text descriptions.
+
+The previous prompts testing was mostly concentrated on text alignments within the range of 0-25 words, while our prompts extend to long-text alignments of 100 words or more.
+
+
 <img src="asset/images/1700797464794.jpg" width="400"/>  <img src="asset/images/1700797453021.jpg" width="400"/>
 
 
 
-# 📖BibTeX
+## 📖BibTeX
 
     
-# 🤗Acknowledgements
+## 🤗Acknowledgements
 - Thanks to [Diffusers](https://github.com/huggingface/diffusers) for the wonderful work and codebase.
