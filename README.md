@@ -51,7 +51,7 @@ The proposed ParaImage dataset mainly includes two parts:
 
 
 
-<img src="asset/images/1700797160959.png" width="400"/>  <img src="asset/images/1700797178853.png" width="400"/>
+<img src="asset/images/1700797160959.jpeg" width="400"/>  <img src="asset/images/1700797178853.jpeg" width="400"/>
 
 
 **ParaImage-Small** is a few thousand high-quality images are thoughtfully selected from LAION-Aesthetics, adhering to common principles in photography, then professionally annotated by skilled annotators.
