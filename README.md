@@ -22,7 +22,7 @@
 ![image.](asset/images/WX20231124-120031@2x.png)
 
 ---
-![image.](asset/images/1700796567631.png)
+![image.](asset/images/WX20231124-120233@2x.png)
 
 
 # 🔧 Dependencies and Installation
@@ -41,7 +41,7 @@
 # ✏️ Paragraph-Image Dataset: ParaImage-Small
 ParaImage-Small is a few thousand high-quality images are thoughtfully selected from LAION-Aesthetics, adhering to common principles in photography, then professionally annotated by skilled annotators. 
 ---
-![image.](asset/images/1700796834574.png)
+![image.](asset/images/WX20231124-120329@2x.png)
 
 <img src="asset/images/1700797160959.png" width="400"/>  <img src="asset/images/1700797178853.png" width="400"/>
 
