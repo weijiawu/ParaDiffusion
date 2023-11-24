@@ -19,7 +19,7 @@
 
 ---
 
-![image.](asset/images/fig1_teasers.pdf)
+![image.](asset/images/WX20231124-120031@2x.png)
 
 ---
 ![image.](asset/images/1700796567631.png)
