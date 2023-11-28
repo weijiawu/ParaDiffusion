@@ -57,7 +57,10 @@ The proposed ParaImage dataset mainly includes two parts:
 **ParaImage-Small** is a few thousand high-quality images are thoughtfully selected from LAION-Aesthetics, adhering to common principles in photography, then professionally annotated by skilled annotators.
 
 
-The ParaImage-Small can be download from Google Drive(keep stay tuned)
+The ParaImage-Small can be download from [Google Drive](https://drive.google.com/file/d/12x0uS0KgD4_NqzJ1A7hLjGkPIwD1Ozud/view?usp=drive_link)
+
+
+
 
 ## ✏️ New Prompts Eval: ParaPrompts-400
 
