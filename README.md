@@ -2,12 +2,15 @@
 ### <div align="center"> Paragraph-to-Image Generation with Information-Enriched Diffusion Model <div> 
 
 <div align="center">
-  <a href="aaa"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a> &ensp;
-  <a href="aa"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
+  <a href="https://weijiawu.github.io/ParaDiffusionPage/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a> &ensp;
+  <a href="https://arxiv.org/abs/2311.14284"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
 </div>
 
 ## :notes: **Updates**
 
+
+
+- [x] Nov. 28, 2023. ParaPrompts-400 and ParaImage-3k have been released.
 - [ ] Nov. 15, 2023. Release the inference code in **three months**.
 - [x] Nov. 15, 2023. Rep initialization.
 
@@ -62,7 +65,7 @@ The ParaImage-Small can be download from [Google Drive](https://drive.google.com
 
 
 
-## ✏️ New Prompts Eval: ParaPrompts-400
+## ✏️ New Prompts Eval: [ParaPrompts-400](https://github.com/weijiawu/ParaDiffusion/blob/main/ParaPrompts-400/ParaPrompts_400.csv)
 
 The current test prompts focus on short text-to-image generation, ignoring the evaluation for paragraph-to-image generation, we introduced a new evaluation set of prompts called ParaPrompts, including 400 long-text descriptions.
 
@@ -74,7 +77,14 @@ The previous prompts testing was mostly concentrated on text alignments within t
 
 
 ## 📖BibTeX
-
+    @misc{wu2023paradiffusion,
+          title={Paragraph-to-Image Generation with Information-Enriched Diffusion Model}, 
+          author={Weijia Wu, Zhuang Li, Yefei He, Mike Zheng Shou, Chunhua Shen, Lele Cheng, Yan Li, Tingting Gao, Di Zhang, Zhongyuan Wang},
+          year={2023},
+          eprint={2311.14284},
+          archivePrefix={arXiv},
+          primaryClass={cs.CV}
+    }
     
 ## 🤗Acknowledgements
 - Thanks to [Diffusers](https://github.com/huggingface/diffusers) for the wonderful work and codebase.
