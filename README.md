@@ -9,9 +9,8 @@
 ## :notes: **Updates**
 
 
-
+- [x] Mar. 24, 2024. The inference code have been released.
 - [x] Nov. 28, 2023. ParaPrompts-400 and ParaImage-3k have been released.
-- [ ] Nov. 15, 2023. Release the inference code in **three months**.
 - [x] Nov. 15, 2023. Rep initialization.
 
 
@@ -33,12 +32,34 @@
 - Python >= 3.10 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 - [PyTorch >= 1.13.0+cu11.7](https://pytorch.org/)
 
+```Shell
+git clone https://github.com/weijiawu/ParaDiffusion
+cd ParaDiffusion
+
+conda create -n ParaDiffusion python=3.8
+conda activate ParaDiffusion
+pip install -r requirements.txt
+```
+
 
 ## ⏬ Download Models
 
 
-## 💻 Inference
+Download our pretrained model for the ParaDiffusion:
+```bash 
+mkdir -p weight
+cd weight
 
+# download the weight of DragAnything to ./weight
+git lfs install
+git clone https://huggingface.co/weijiawu/ParaDiffusion
+```
+We provide two sets of UNet weights, and you can choose the corresponding one for testing and inference.
+
+## 💻 Inference
+```Shell
+python demo.py
+```
 
 
 ## ✏️ Paragraph-Image Dataset: ParaImage-Small
