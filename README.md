@@ -32,6 +32,8 @@
 - Python >= 3.10 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 - [PyTorch >= 1.13.0+cu11.7](https://pytorch.org/)
 - [diffusers == 0.20.0](https://pypi.org/project/diffusers/0.20.0/)
+
+diffusers
 ```Shell
 git clone https://github.com/weijiawu/ParaDiffusion
 cd ParaDiffusion
