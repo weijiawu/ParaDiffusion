@@ -1,0 +1,34 @@
+{
+    "Car": {
+        "Attributes": "white and blue, white roof, blue body, two pieces of glass on the front, huge blue Volkswagen logo, two large round white headlights, two small yellow headlights, yellow license plate with 'KALIKA'",
+        "Locations": "parked in the parking lot, white front of the car, side blue front face, middle of the white bumper"
+    },
+    "Parking Lot": {
+        "Attributes": "white parking space lines, black and gray ground",
+        "Locations": "faintly visible on the ground"
+    },
+    "Coconut Trees": {
+        "Attributes": "tall",
+        "Locations": "at the edge of the parking lot"
+    },
+    "Street Light": {
+        "Attributes": "white pole",
+        "Locations": "at the edge of the parking lot"
+    },
+    "Fence": {
+        "Attributes": "red strip",
+        "Locations": "opposite the parking lot"
+    },
+    "Sea": {
+        "Attributes": "blue",
+        "Locations": "outside the fence"
+    },
+    "Mountains": {
+        "Attributes": "distant",
+        "Locations": "in the distance"
+    },
+    "Sky": {
+        "Attributes": "blue, cloudless",
+        "Locations": "above"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Bowl of Noodles": {
+        "Attributes": "Black pottery bowl, contains noodles, large pieces of beef, bright red pepper rings, golden boiled eggs, green vegetables",
+        "Locations": "On the table with wooden cracks, on a gray cotton towel, on a square wooden tray"
+    },
+    "Wooden Utensils": {
+        "Attributes": "Wooden spoons and chopsticks",
+        "Locations": "Placed on both sides of the bowl"
+    },
+    "Garlic and Spices": {
+        "Attributes": "White garlic cloves, chili peppers, cinnamon leaves",
+        "Locations": "On a small wooden tray, upper right side of the wooden table"
+    },
+    "Sunlight": {
+        "Attributes": "Shines in",
+        "Locations": "Through the wooden lattice window"
+    }
+}

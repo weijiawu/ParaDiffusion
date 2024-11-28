@@ -1,0 +1,62 @@
+{
+    "Chandelier": {
+        "Attributes": "European-style, white",
+        "Locations": "on the roof"
+    },
+    "Curtains": {
+        "Attributes": "yellow-red",
+        "Locations": "hanging on the left"
+    },
+    "Chair": {
+        "Attributes": "red, wooden, single",
+        "Locations": "not specified"
+    },
+    "Rectangular Box": {
+        "Attributes": "gray-black, with a white-red one in the middle",
+        "Locations": "not specified"
+    },
+    "Sofa Chair": {
+        "Attributes": "single",
+        "Locations": "not specified"
+    },
+    "Storage Cabinet": {
+        "Attributes": "black, wooden",
+        "Locations": "not specified"
+    },
+    "Desk Lamp": {
+        "Attributes": "white",
+        "Locations": "on the storage cabinet"
+    },
+    "Photo Frame": {
+        "Attributes": "vertical, rectangular, black",
+        "Locations": "on the storage cabinet"
+    },
+    "Double Bed": {
+        "Attributes": "European, red and white",
+        "Locations": "on the right side"
+    },
+    "Cushion": {
+        "Attributes": "white",
+        "Locations": "on the double bed"
+    },
+    "Pillows": {
+        "Attributes": "yellow",
+        "Locations": "on the double bed"
+    },
+    "Painting": {
+        "Attributes": "black framed",
+        "Locations": "not specified"
+    },
+    "Bedside Table": {
+        "Attributes": "black",
+        "Locations": "next to the double bed"
+    },
+    "Red Desk Lamp": {
+        "Attributes": "red",
+        "Locations": "on the bedside table"
+    },
+    "Wooden Box": {
+        "Attributes": "open, square",
+        "Locations": "on the old and dirty floor"
+    }
+}

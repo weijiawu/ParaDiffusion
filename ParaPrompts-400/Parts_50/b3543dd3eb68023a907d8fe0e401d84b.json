@@ -1,0 +1,42 @@
+{
+    "Man": {
+        "Attributes": "wearing a blue shirt and blue jeans",
+        "Locations": "standing on the brick-paved road"
+    },
+    "Bungalow 1": {
+        "Attributes": "two-story, eaves on the second floor, grass on eaves, many red lanterns hanging below, many facades",
+        "Locations": "on the left"
+    },
+    "Stone Lion 1": {
+        "Attributes": "stone",
+        "Locations": "in front of the door of Bungalow 1"
+    },
+    "Debris and Vegetation 1": {
+        "Attributes": "debris and vegetation",
+        "Locations": "behind the stone lion in front of Bungalow 1"
+    },
+    "Bicycle": {
+        "Attributes": "none",
+        "Locations": "on the right"
+    },
+    "Parasol": {
+        "Attributes": "none",
+        "Locations": "next to the bicycle"
+    },
+    "Bungalow 2": {
+        "Attributes": "two-story, eaves on the second floor, vegetation above, red hangings below",
+        "Locations": "next to the parasol"
+    },
+    "Stone Lion 2": {
+        "Attributes": "stone",
+        "Locations": "at the door of Bungalow 2"
+    },
+    "Debris and Vegetation 2": {
+        "Attributes": "sundries and vegetation",
+        "Locations": "at the door of Bungalow 2"
+    },
+    "Sky": {
+        "Attributes": "blue sky and white clouds",
+        "Locations": "in the background"
+    }
+}

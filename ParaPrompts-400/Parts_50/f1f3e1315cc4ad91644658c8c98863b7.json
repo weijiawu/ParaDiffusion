@@ -1,0 +1,34 @@
+{
+    "Windows": {
+        "Attributes": "Opened, intricately distributed",
+        "Locations": "On the milky white wall in the morning"
+    },
+    "Fence": {
+        "Attributes": "Surrounding, filled with laundry",
+        "Locations": "On the balcony on the second floor"
+    },
+    "Green Plants 1": {
+        "Attributes": "In a pot",
+        "Locations": "Under the corner of the wall"
+    },
+    "Quilts": {
+        "Attributes": "Dried",
+        "Locations": "On the stairs surrounded by guardrails"
+    },
+    "Green Plants 2": {
+        "Attributes": "Covering the guardrails",
+        "Locations": "On the guardrails in the stairwell"
+    },
+    "Door": {
+        "Attributes": "Small, red",
+        "Locations": "Opened under one wall"
+    },
+    "Sky and Clouds": {
+        "Attributes": "Merged into a gradient of white and blue",
+        "Locations": "In the sky"
+    },
+    "Wires": {
+        "Attributes": "Intricate",
+        "Locations": "On the building, connecting the lights in the alley"
+    }
+}

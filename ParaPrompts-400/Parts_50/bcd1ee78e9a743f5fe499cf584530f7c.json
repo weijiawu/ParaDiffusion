@@ -1,0 +1,34 @@
+{
+    "River": {
+        "Attributes": "water waves",
+        "Locations": "under the bridge"
+    },
+    "Bridge": {
+        "Attributes": "arched bridge hole",
+        "Locations": "on the river"
+    },
+    "People": {
+        "Attributes": "several",
+        "Locations": "on the bridge"
+    },
+    "Building": {
+        "Attributes": "gray-black, different shapes on top",
+        "Locations": "right side of the bridge"
+    },
+    "Plants": {
+        "Attributes": "green",
+        "Locations": "growing around the river"
+    },
+    "Stones": {
+        "Attributes": "gray-black",
+        "Locations": "nearby the river"
+    },
+    "Mountains": {
+        "Attributes": "covered with green plants",
+        "Locations": "in the distance"
+    },
+    "Clouds": {
+        "Attributes": "white and gray",
+        "Locations": "floating in the blue sky"
+    }
+}

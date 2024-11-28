@@ -1,0 +1,34 @@
+{
+    "Green Truck": {
+        "Attributes": "green",
+        "Locations": "in front of a house"
+    },
+    "Man 1": {
+        "Attributes": "wearing a white shirt and dark trousers, holding a red tool in his right hand",
+        "Locations": "next to the green truck"
+    },
+    "Man 2": {
+        "Attributes": "wearing a blue shirt and dark trousers, holding a black thread in his left hand",
+        "Locations": "on the right side"
+    },
+    "Man 3": {
+        "Attributes": "wearing a light-colored jacket and black pants, squatting, holding a coil of thread",
+        "Locations": "on the manhole cover on the left"
+    },
+    "Orange Toolbox": {
+        "Attributes": "orange",
+        "Locations": "between the men"
+    },
+    "Bags": {
+        "Attributes": "brightly colored",
+        "Locations": "hanging on the roof on the left side of the house"
+    },
+    "Sign": {
+        "Attributes": "black, says 'Aizen Factory, Wholesale and Retail'",
+        "Locations": "on the right side of the house"
+    },
+    "Sky": {
+        "Attributes": "blue",
+        "Locations": "above"
+    }
+}

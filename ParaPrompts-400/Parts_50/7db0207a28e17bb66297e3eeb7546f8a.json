@@ -1,0 +1,30 @@
+{
+    "Nearest Boat": {
+        "Attributes": "red, yellow, and green stripes on its hull and a black bottom",
+        "Locations": "nearest"
+    },
+    "Ship": {
+        "Attributes": "red bow and a white hull",
+        "Locations": "on the right"
+    },
+    "Two Small Boats": {
+        "Attributes": "white hulls and a slight black decoration",
+        "Locations": "behind the ship"
+    },
+    "Small Boat with Blue Trim": {
+        "Attributes": "white hull, blue trim, blue seats, and a blue awning",
+        "Locations": "a little further to the left"
+    },
+    "Beach": {
+        "Attributes": "short vegetation and a few coconut trees",
+        "Locations": "on the far shore"
+    },
+    "House": {
+        "Attributes": "light brown walls",
+        "Locations": "among the vegetation"
+    },
+    "Sky": {
+        "Attributes": "white clouds in groups, leaving a blue corner",
+        "Locations": "above"
+    }
+}

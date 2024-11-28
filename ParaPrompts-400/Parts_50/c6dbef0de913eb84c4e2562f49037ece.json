@@ -1,0 +1,46 @@
+{
+    "Sea": {
+        "Attributes": "rippling, dark blue",
+        "Locations": "left"
+    },
+    "Bridge": {
+        "Attributes": "white",
+        "Locations": "middle of the sea"
+    },
+    "Ships": {
+        "Attributes": "white, shining with yellow lights",
+        "Locations": "parked on the sea"
+    },
+    "Road": {
+        "Attributes": "shining with yellow lights",
+        "Locations": "along the coast"
+    },
+    "Trees": {
+        "Attributes": "tall, green",
+        "Locations": "growing on the roadside"
+    },
+    "Gray Road": {
+        "Attributes": "gray",
+        "Locations": "beside the trees"
+    },
+    "Cars": {
+        "Attributes": "many",
+        "Locations": "on the road"
+    },
+    "Lake": {
+        "Attributes": "round",
+        "Locations": "in front of the road"
+    },
+    "Arch Bridge": {
+        "Attributes": "dark",
+        "Locations": "on the water"
+    },
+    "High-rise Buildings": {
+        "Attributes": "brightly lighted",
+        "Locations": "right front"
+    },
+    "Sky": {
+        "Attributes": "dark blue, with billowing clouds",
+        "Locations": "above"
+    }
+}

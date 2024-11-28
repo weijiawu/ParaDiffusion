@@ -1,0 +1,78 @@
+{
+    "Desk": {
+        "Attributes": "iron legs, wooden top",
+        "Locations": "in the room"
+    },
+    "Piece of Paper": {
+        "Attributes": "with writing on it",
+        "Locations": "spread out in the middle of the table"
+    },
+    "Paperweights": {
+        "Attributes": "two",
+        "Locations": "pressed on both sides of the paper"
+    },
+    "Abacus": {
+        "Attributes": "none",
+        "Locations": "pressed on top of the paper"
+    },
+    "Boxes (Right Side)": {
+        "Attributes": "two",
+        "Locations": "right side of the desktop"
+    },
+    "Stack of Paper (Right Side)": {
+        "Attributes": "none",
+        "Locations": "right side of the desktop"
+    },
+    "Bottle of Ink": {
+        "Attributes": "none",
+        "Locations": "right front of the desktop"
+    },
+    "Bottle with Red Cap": {
+        "Attributes": "red cap",
+        "Locations": "left side of the desktop"
+    },
+    "Pot of Green Plants": {
+        "Attributes": "green plants",
+        "Locations": "left side of the desktop"
+    },
+    "Boxes (Left Front)": {
+        "Attributes": "two",
+        "Locations": "left front of the desktop"
+    },
+    "Stack of Paper (Left Front)": {
+        "Attributes": "none",
+        "Locations": "left front of the desktop"
+    },
+    "Disposable Cup": {
+        "Attributes": "filled with ink",
+        "Locations": "left front of the desktop"
+    },
+    "Pen Holder 1": {
+        "Attributes": "two brushes",
+        "Locations": "left side of the cup"
+    },
+    "Pen Holder 2": {
+        "Attributes": "several brushes hanging on it",
+        "Locations": "left side of the pen holder with two brushes"
+    },
+    "Green Plant": {
+        "Attributes": "none",
+        "Locations": "left side of the desk"
+    },
+    "Wooden Shelves": {
+        "Attributes": "none",
+        "Locations": "left side of the desk"
+    },
+    "Wooden Chair": {
+        "Attributes": "none",
+        "Locations": "behind the desk"
+    },
+    "Landscape Painting": {
+        "Attributes": "none",
+        "Locations": "on the wall behind the chair"
+    },
+    "Wooden Bookshelves": {
+        "Attributes": "two, with some books",
+        "Locations": "on both sides of the painting"
+    }
+}

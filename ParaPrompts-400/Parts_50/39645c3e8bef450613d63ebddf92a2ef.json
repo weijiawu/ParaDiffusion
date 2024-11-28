@@ -1,0 +1,42 @@
+{
+    "Street": {
+        "Attributes": "paved with stone pavements",
+        "Locations": "near the lighthouse on the seaside"
+    },
+    "Stone Pavements": {
+        "Attributes": "some slates were purple, some were blue, and some were khaki",
+        "Locations": "on the street"
+    },
+    "Circle of Stones": {
+        "Attributes": "beside the street",
+        "Locations": "beside the street"
+    },
+    "Ocean": {
+        "Attributes": "large, with rough waves",
+        "Locations": "next to the fence"
+    },
+    "Lighthouse": {
+        "Attributes": "white with black railings, bottom, and decoration; dark blue on the top",
+        "Locations": "in the sea"
+    },
+    "Reef": {
+        "Attributes": "exposed",
+        "Locations": "in the distance"
+    },
+    "Sky": {
+        "Attributes": "large, not a single cloud, divided into three layers",
+        "Locations": "above the mountain and sea"
+    },
+    "Sky Layer 1": {
+        "Attributes": "blue-purple",
+        "Locations": "bottom layer"
+    },
+    "Sky Layer 2": {
+        "Attributes": "some yellow hair, gray",
+        "Locations": "middle layer"
+    },
+    "Sky Layer 3": {
+        "Attributes": "light blue",
+        "Locations": "top layer"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Wooden Plate": {
+        "Attributes": "brown",
+        "Locations": "center of the table"
+    },
+    "Tomatoes": {
+        "Attributes": "red, bunches and single",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Red Peppers": {
+        "Attributes": "red",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Carrots": {
+        "Attributes": "yellow",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Yellow Peppers": {
+        "Attributes": "yellow",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Eggplants": {
+        "Attributes": "purple",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Purple Onions": {
+        "Attributes": "purple",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Lilies": {
+        "Attributes": "purple",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Green Peppers": {
+        "Attributes": "green",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Broccoli": {
+        "Attributes": "green",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Beans": {
+        "Attributes": "green",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Cucumbers": {
+        "Attributes": "green",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Potatoes": {
+        "Attributes": "earthy",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Cauliflower": {
+        "Attributes": "green leafy, white outer layer",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Garlic Heads": {
+        "Attributes": "white",
+        "Locations": "surrounding the wooden plate"
+    },
+    "Cut Onion": {
+        "Attributes": "purple and white lines inside",
+        "Locations": "on the table"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "Mahogany Table": {
+        "Attributes": "A table made of mahogany",
+        "Locations": "N/A"
+    },
+    "Letter 1": {
+        "Attributes": "A letter on the table",
+        "Locations": "On the table"
+    },
+    "Ink Bottle": {
+        "Attributes": "An ink bottle with a white quill inserted",
+        "Locations": "On the letter"
+    },
+    "Letter 2": {
+        "Attributes": "A letter with a lighter seal",
+        "Locations": "On the table"
+    },
+    "Red Ribbons": {
+        "Attributes": "One or two red ribbons",
+        "Locations": "On Mars"
+    },
+    "Violin Strings": {
+        "Attributes": "Violin strings",
+        "Locations": "Pressed against the two pieces of letter paper"
+    },
+    "Book": {
+        "Attributes": "A very thick book",
+        "Locations": "Next to the letter paper"
+    },
+    "Candle": {
+        "Attributes": "A lit candle",
+        "Locations": "Next to the very thick book"
+    },
+    "Transparent Goblet": {
+        "Attributes": "A goblet filled with water",
+        "Locations": "To the left of the candle"
+    },
+    "Rose": {
+        "Attributes": "A red rose with several leaves",
+        "Locations": "In the water in the goblet"
+    },
+    "Violin": {
+        "Attributes": "A violin",
+        "Locations": "On the right"
+    }
+}

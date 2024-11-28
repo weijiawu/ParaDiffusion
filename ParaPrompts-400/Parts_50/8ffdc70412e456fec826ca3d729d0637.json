@@ -1,0 +1,38 @@
+{
+    "Light Blue Wooden Boat": {
+        "Attributes": "light blue, wooden, parked vertically",
+        "Locations": "right side of the water"
+    },
+    "Rope": {
+        "Attributes": "with seaweed hanging on it",
+        "Locations": "between the boat and the water"
+    },
+    "Small Set of Stairs": {
+        "Attributes": "small",
+        "Locations": "next to the ship"
+    },
+    "Green Wooden Boat": {
+        "Attributes": "green, with a white chair, has sails set up",
+        "Locations": "on the shore of the water"
+    },
+    "Blue Wooden Boat": {
+        "Attributes": "blue, has sails set up",
+        "Locations": "farther away on the shore of the water"
+    },
+    "Piece of Green Grass": {
+        "Attributes": "green",
+        "Locations": "on the shore"
+    },
+    "Brown Benches": {
+        "Attributes": "brown",
+        "Locations": "on the grass"
+    },
+    "Cars": {
+        "Attributes": "none specified",
+        "Locations": "behind the grass"
+    },
+    "Houses": {
+        "Attributes": "pointed roofs, colors: yellow, red, blue, gray, white",
+        "Locations": "behind the grass"
+    }
+}

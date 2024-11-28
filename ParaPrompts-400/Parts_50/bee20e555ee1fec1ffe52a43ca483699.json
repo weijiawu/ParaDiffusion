@@ -1,0 +1,38 @@
+{
+    "Great Wall": {
+        "Attributes": "stretching, made of stones, stone gray",
+        "Locations": "on the mountain ridge"
+    },
+    "Beacon Towers": {
+        "Attributes": "cube",
+        "Locations": "every other section of the Great Wall"
+    },
+    "Trees": {
+        "Attributes": "sparse, some green, some white",
+        "Locations": "growing on the hillside"
+    },
+    "Mountain": {
+        "Attributes": "exposed part is dark brown",
+        "Locations": "on the hillside"
+    },
+    "Rocks": {
+        "Attributes": "scattered",
+        "Locations": "on the slopes"
+    },
+    "Houses": {
+        "Attributes": "white-roofed",
+        "Locations": "on the hillside"
+    },
+    "Pool": {
+        "Attributes": "rectangular",
+        "Locations": "in front of the houses"
+    },
+    "Mountains": {
+        "Attributes": "stretches",
+        "Locations": "behind the ridge"
+    },
+    "Sky": {
+        "Attributes": "cloudless, gradient from white to light blue",
+        "Locations": "from low altitude to high altitude"
+    }
+}

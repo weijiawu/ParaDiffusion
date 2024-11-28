@@ -1,0 +1,50 @@
+{
+    "Refrigerator": {
+        "Attributes": "gray",
+        "Locations": "against the wall"
+    },
+    "Mural": {
+        "Attributes": "none",
+        "Locations": "on the right side of the refrigerator"
+    },
+    "Kitchen Stove": {
+        "Attributes": "none",
+        "Locations": "on the left side of the refrigerator"
+    },
+    "Sink": {
+        "Attributes": "none",
+        "Locations": "on the left side of the refrigerator"
+    },
+    "Dining Table": {
+        "Attributes": "with some fruits on it",
+        "Locations": "in the middle"
+    },
+    "High Stool 1": {
+        "Attributes": "none",
+        "Locations": "next to the dining table"
+    },
+    "High Stool 2": {
+        "Attributes": "none",
+        "Locations": "in front of the first stool"
+    },
+    "Open Book": {
+        "Attributes": "none",
+        "Locations": "on the dining table"
+    },
+    "Lamp": {
+        "Attributes": "none",
+        "Locations": "on the dining table"
+    },
+    "Window": {
+        "Attributes": "transparent, floor-to-ceiling",
+        "Locations": "in front of the dining table"
+    },
+    "White Blanket": {
+        "Attributes": "none",
+        "Locations": "on the floor to the left of the dining table"
+    },
+    "Green Potted Plant": {
+        "Attributes": "green",
+        "Locations": "none"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Food Truck": {
+        "Attributes": "mainly yellow and green, has words on the body, has a rectangular sign on the roof, has food patterns and words on the brand",
+        "Locations": "on a dark road"
+    },
+    "Man": {
+        "Attributes": "making delicious food",
+        "Locations": "next to a lot of food"
+    },
+    "Girl": {
+        "Attributes": "wearing white clothes",
+        "Locations": "standing in front of the man"
+    },
+    "Man 2": {
+        "Attributes": "wearing a blue shirt",
+        "Locations": "standing in front of the man"
+    },
+    "Lake": {
+        "Attributes": "sparkling",
+        "Locations": "behind the man"
+    },
+    "Sun": {
+        "Attributes": "dyes the clouds yellow",
+        "Locations": "in the sky"
+    }
+}

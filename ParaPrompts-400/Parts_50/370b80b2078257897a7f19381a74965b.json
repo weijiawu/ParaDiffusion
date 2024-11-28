@@ -1,0 +1,46 @@
+{
+    "Woman": {
+        "Attributes": "wearing a black striped top, busy, back to the camera",
+        "Locations": "in the room"
+    },
+    "Table": {
+        "Attributes": "black",
+        "Locations": "behind the woman"
+    },
+    "Small Dolls": {
+        "Attributes": "many",
+        "Locations": "on the left of the black table"
+    },
+    "Small Frames": {
+        "Attributes": "none specified",
+        "Locations": "in the middle of the black table"
+    },
+    "White Cat-Shaped Objects": {
+        "Attributes": "none specified",
+        "Locations": "on the right of the black table"
+    },
+    "White Decorations": {
+        "Attributes": "with words written on them",
+        "Locations": "hung in front of the table"
+    },
+    "Cabinets": {
+        "Attributes": "neatly arranged with items",
+        "Locations": "in front of the woman and on the left"
+    },
+    "Blackboards": {
+        "Attributes": "with types of drinks written in fluorescent characters",
+        "Locations": "hung directly in front of the woman"
+    },
+    "Tree Trunk": {
+        "Attributes": "covered with decorations",
+        "Locations": "next to the blackboards"
+    },
+    "Blue Triangular Top Decoration": {
+        "Attributes": "none specified",
+        "Locations": "on the right side"
+    },
+    "Red Main Body and Green Triangular Top Decoration": {
+        "Attributes": "none specified",
+        "Locations": "on the right side"
+    }
+}

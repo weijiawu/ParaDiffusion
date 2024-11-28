@@ -1,0 +1,38 @@
+{
+    "Decoration": {
+        "Attributes": "Hanging on the wall",
+        "Locations": "Directly opposite the house"
+    },
+    "White Double Sofa": {
+        "Attributes": "Two cushions on each of the two positions",
+        "Locations": "Underneath the decoration"
+    },
+    "Gold-rimmed Three-person Sofa": {
+        "Attributes": "Gold-rimmed",
+        "Locations": "On the right side of the white double sofa"
+    },
+    "Side Table": {
+        "Attributes": "None",
+        "Locations": "Next to the gold-rimmed three-person sofa"
+    },
+    "Painting": {
+        "Attributes": "With a glass ball and a white flowerpot on it",
+        "Locations": "Behind the side table"
+    },
+    "Floor Lamp": {
+        "Attributes": "None",
+        "Locations": "To the left of the white double sofa"
+    },
+    "Diamond-shaped Glass Wall": {
+        "Attributes": "With a wall lamp on it",
+        "Locations": "To the left of the white double sofa"
+    },
+    "Square Glass Coffee Table": {
+        "Attributes": "None",
+        "Locations": "In front of the white double sofa"
+    },
+    "Single Stool": {
+        "Attributes": "None",
+        "Locations": "On the left side of the square glass coffee table"
+    }
+}

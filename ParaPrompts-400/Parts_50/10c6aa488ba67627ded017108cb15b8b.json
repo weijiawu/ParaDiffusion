@@ -1,0 +1,46 @@
+{
+    "Village": {
+        "Attributes": "Densely packed, orderly buildings",
+        "Locations": "At the foot of the mountain, bathed in the sun"
+    },
+    "Covered Cylinder": {
+        "Attributes": "Three concentric circles on the cover",
+        "Locations": "On the roof in the foreground"
+    },
+    "Yellow Brick Fence": {
+        "Attributes": "Gap in the middle",
+        "Locations": "On the edge of the roof"
+    },
+    "Blue Barrels": {
+        "Attributes": "Two barrels",
+        "Locations": "On the roof of the shorter house next to it"
+    },
+    "Roof": {
+        "Attributes": "Asbestos tiles",
+        "Locations": "On the right"
+    },
+    "Street Light": {
+        "Attributes": "On a gray electric pole",
+        "Locations": "Near the electric pole"
+    },
+    "White Square Electric Box": {
+        "Attributes": "Connected with wires",
+        "Locations": "On the gray electric pole in the distance"
+    },
+    "Water": {
+        "Attributes": "Next to the village",
+        "Locations": "Adjacent to the village"
+    },
+    "Mountains": {
+        "Attributes": "Rolling",
+        "Locations": "In the distance"
+    },
+    "Mist": {
+        "Attributes": "Looming over villages, mountains, and lakes",
+        "Locations": "In the atmosphere"
+    },
+    "Sky": {
+        "Attributes": "Gray",
+        "Locations": "Above"
+    }
+}

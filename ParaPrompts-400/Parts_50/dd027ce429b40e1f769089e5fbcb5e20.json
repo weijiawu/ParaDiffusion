@@ -1,0 +1,55 @@
+{
+    "Puppy": {
+        "Attributes": {
+            "Ears": {
+                "Color": {
+                    "Edges": "gray",
+                    "Inside": "off-white",
+                    "Inner": "dark red"
+                },
+                "Position": "erect"
+            },
+            "Hood": {
+                "Material": "woolen",
+                "Color": [
+                    "blue",
+                    "brick red",
+                    "yellow",
+                    "gray"
+                ]
+            },
+            "Fur": {
+                "Forehead": [
+                    "off-white",
+                    "gray"
+                ],
+                "Mouth": "off-white",
+                "Neck": [
+                    "gray",
+                    "off-white"
+                ]
+            },
+            "Eyes": {
+                "Color": "blue",
+                "State": "wide open",
+                "Direction": "looking ahead"
+            },
+            "Nose": {
+                "Color": "brown"
+            },
+            "Beards": {
+                "Color": "black"
+            },
+            "Paws": {
+                "Position": "crawling on the ground",
+                "Color": "yellow"
+            },
+            "Chains": {
+                "Location": "on both sides of the paws"
+            }
+        },
+        "Locations": {
+            "Ground": "lying"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Curved Road": {
+        "Attributes": "Curved, with a yellow dividing line",
+        "Locations": "In the wild"
+    },
+    "Black Rock": {
+        "Attributes": "Black",
+        "Locations": "On the left side of the road"
+    },
+    "Slope": {
+        "Attributes": "None specified",
+        "Locations": "On the right side of the road"
+    },
+    "Trees": {
+        "Attributes": "Very green and lush leaves",
+        "Locations": "On both sides of the road"
+    },
+    "White Smoke": {
+        "Attributes": "Floating",
+        "Locations": "On the road, in front of us"
+    },
+    "Green Plain": {
+        "Attributes": "Green",
+        "Locations": "In the distance"
+    },
+    "High Mountain": {
+        "Attributes": "High, with white snow at the foot",
+        "Locations": "Behind the plain"
+    }
+}

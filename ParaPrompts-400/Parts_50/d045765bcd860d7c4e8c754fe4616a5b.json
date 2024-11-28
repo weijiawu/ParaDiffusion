@@ -1,0 +1,34 @@
+{
+    "Statue": {
+        "Attributes": "A person sitting on a stone, hair pulled up into a bun",
+        "Locations": "Central, with left hand on the corner of the stone behind and right hand in front"
+    },
+    "Pool": {
+        "Attributes": "Contains water",
+        "Locations": "On the left of the statue"
+    },
+    "Square Pool": {
+        "Attributes": "Contains golden animals",
+        "Locations": "On the pool"
+    },
+    "Fountain": {
+        "Attributes": "None specified",
+        "Locations": "In front of the statue"
+    },
+    "Grass": {
+        "Attributes": "None specified",
+        "Locations": "In front of the statue"
+    },
+    "Iron Tower": {
+        "Attributes": "Tall",
+        "Locations": "In the distance, surrounded by buildings and trees"
+    },
+    "Sky": {
+        "Attributes": "Blue with white clouds and white lines, light yellow in the distance",
+        "Locations": "Above"
+    },
+    "Sun": {
+        "Attributes": "Afterglow illuminating the sky",
+        "Locations": "In the distance"
+    }
+}

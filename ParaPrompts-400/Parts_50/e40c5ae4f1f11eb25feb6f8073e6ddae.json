@@ -1,0 +1,30 @@
+{
+    "Sheep 1": {
+        "Attributes": "white sheep with gray wool",
+        "Locations": "left of the white sheep in the front row"
+    },
+    "Sheep 2": {
+        "Attributes": "white sheep",
+        "Locations": "front row"
+    },
+    "Sheep 3": {
+        "Attributes": "gray sheep",
+        "Locations": "right of the white sheep in the front row"
+    },
+    "Sheep 4": {
+        "Attributes": "brown sheep with pointed horns",
+        "Locations": "row of sheep at the back"
+    },
+    "Person 1": {
+        "Attributes": "red hat, black beard, white pants, white top, blue coat, holding a yellow bird, bamboo pole on shoulder",
+        "Locations": "left of the two people on the right side of the sheep"
+    },
+    "Person 2": {
+        "Attributes": "gray beard, wearing a scarf, holding a bamboo pole",
+        "Locations": "right of the person with a red hat"
+    },
+    "Sheep 5": {
+        "Attributes": "sheep with white and gray hair on its face",
+        "Locations": "front row"
+    }
+}

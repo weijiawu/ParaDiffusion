@@ -1,0 +1,34 @@
+{
+    "Person 1 (Front Row, Left)": {
+        "Attributes": "Suit, left leg crossed, right hand on armrest, left arm on crossed leg",
+        "Locations": "Front row, left on sofa"
+    },
+    "Person 2 (Front Row, Middle)": {
+        "Attributes": "Suit, hands in the middle of knees, feet crossed",
+        "Locations": "Front row, middle on sofa"
+    },
+    "Person 3 (Front Row, Right)": {
+        "Attributes": "Suit, right leg crossed, left arm on armrest, hand on knee",
+        "Locations": "Front row, right on sofa"
+    },
+    "Person 4 (Back Row, Left)": {
+        "Attributes": "Suit, holding right hand",
+        "Locations": "Back row, first from the left"
+    },
+    "Person 5 (Back Row, Second from Left)": {
+        "Attributes": "Suit, facing left side",
+        "Locations": "Back row, second from the left"
+    },
+    "Person 6 (Back Row, Middle)": {
+        "Attributes": "Suit, wearing glasses",
+        "Locations": "Back row, middle"
+    },
+    "Person 7 (Back Row, Second from Right)": {
+        "Attributes": "Suit, head slightly tilted to the right",
+        "Locations": "Back row, second from the right"
+    },
+    "Person 8 (Back Row, Right)": {
+        "Attributes": "Suit, wearing black top and white pants",
+        "Locations": "Back row, right"
+    }
+}

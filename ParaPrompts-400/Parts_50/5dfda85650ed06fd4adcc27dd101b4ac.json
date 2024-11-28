@@ -1,0 +1,46 @@
+{
+    "Car": {
+        "Attributes": "on one of the tracks",
+        "Locations": "on the track"
+    },
+    "Fences": {
+        "Attributes": "on both sides of the track",
+        "Locations": "on both sides of the track"
+    },
+    "Vegetation": {
+        "Attributes": "green",
+        "Locations": "on the ground"
+    },
+    "Bridge": {
+        "Attributes": "winding",
+        "Locations": "on one side of the fence"
+    },
+    "People": {
+        "Attributes": "a few",
+        "Locations": "on the bridge"
+    },
+    "Trees with Pink Flowers": {
+        "Attributes": "many",
+        "Locations": "on the other side of the fence"
+    },
+    "Grass": {
+        "Attributes": "green",
+        "Locations": "on the ground"
+    },
+    "Path": {
+        "Attributes": "next to it",
+        "Locations": "next to the track"
+    },
+    "Trees": {
+        "Attributes": "green",
+        "Locations": "on the roadside"
+    },
+    "Buildings": {
+        "Attributes": "tall, in groups",
+        "Locations": "in the distance"
+    },
+    "Body of Water": {
+        "Attributes": "in the middle of the buildings",
+        "Locations": "in the middle of the buildings"
+    }
+}

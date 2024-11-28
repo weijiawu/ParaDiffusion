@@ -52,7 +52,7 @@ Download our pretrained model for the ParaDiffusion:
 mkdir -p weight
 cd weight
 
-# download the weight of DragAnything to ./weight
+# download the weight of ParaDiffusion to ./weight
 git lfs install
 git clone https://huggingface.co/weijiawu/ParaDiffusion
 ```

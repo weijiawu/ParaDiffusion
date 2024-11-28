@@ -1,0 +1,22 @@
+{
+    "Wooden Cart": {
+        "Attributes": "wooden",
+        "Locations": "on the yellow dirt ground"
+    },
+    "Black Woman": {
+        "Attributes": "black, wearing a red, black and yellow long skirt, wearing green shoes",
+        "Locations": "sitting on the wooden cart, looking forward"
+    },
+    "Blue House": {
+        "Attributes": "blue, has two windows, has a door with a yellow sign",
+        "Locations": "behind the black woman"
+    },
+    "Woman with Red Bag": {
+        "Attributes": "carrying a red bag, wearing a long colorful skirt",
+        "Locations": "in front of the blue house"
+    },
+    "Old Man": {
+        "Attributes": "wearing a yellow-red high hat, wearing a black-yellow coat, wearing white shorts, holding a red bag in his left hand, holding a cane in his right hand",
+        "Locations": "coming out at the door of the blue house"
+    }
+}

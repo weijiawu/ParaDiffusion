@@ -1,0 +1,30 @@
+{
+    "Ginkgo Trees": {
+        "Attributes": "Straight trunks, golden leaves",
+        "Locations": "Two rows"
+    },
+    "Woman": {
+        "Attributes": "Wearing a pink coat and a white scarf with pink underneath",
+        "Locations": "Walking between the trees"
+    },
+    "Man with Camera": {
+        "Attributes": "Holding a camera",
+        "Locations": "Next to the woman"
+    },
+    "Black Bag": {
+        "Attributes": "On the ground",
+        "Locations": "Behind the man with camera"
+    },
+    "Old Man 1": {
+        "Attributes": "Back turned, gray hair",
+        "Locations": "Next to the man with camera"
+    },
+    "Man in Burgundy Shirt": {
+        "Attributes": "Wearing a burgundy shirt and a blue hat",
+        "Locations": "Next to the old man with gray hair"
+    },
+    "Old Man 2": {
+        "Attributes": "Wearing red clothes, carrying a transparent bag containing something",
+        "Locations": "Next to the man in burgundy shirt"
+    }
+}

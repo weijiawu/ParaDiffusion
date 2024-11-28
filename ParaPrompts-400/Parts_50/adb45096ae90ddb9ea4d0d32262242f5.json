@@ -1,0 +1,46 @@
+{
+    "Building 1": {
+        "Attributes": "Three-story building with a black round arch and blue paint, eaves made of tiles, two windows on the second and third floors",
+        "Locations": "On one side of the stone floor with a square pattern"
+    },
+    "First Floor Arch": {
+        "Attributes": "Black round arch with blue paint around it",
+        "Locations": "First floor of Building 1"
+    },
+    "Eaves": {
+        "Attributes": "Made of tiles",
+        "Locations": "Above the door on the first floor of Building 1"
+    },
+    "People in Front of Arch": {
+        "Attributes": "Three people with different clothes and headscarves",
+        "Locations": "Sitting in front of the first floor arch"
+    },
+    "Windows": {
+        "Attributes": "Two windows on each of the second and third floors",
+        "Locations": "Second and third floors of Building 1"
+    },
+    "Desk Lamp": {
+        "Attributes": "Desk lamp",
+        "Locations": "Right side of the window on the second or third floor"
+    },
+    "Walking Person": {
+        "Attributes": "Walking person",
+        "Locations": "Under the desk lamp"
+    },
+    "Buildings 2 and 3": {
+        "Attributes": "Two buildings with the same outer perimeter as Building 1, but with only two floors",
+        "Locations": "Right side of Building 1"
+    },
+    "Stairs": {
+        "Attributes": "Seven floors of stairs with the same style as the floor",
+        "Locations": "On the other side of the road"
+    },
+    "People on Stairs": {
+        "Attributes": "Two people sitting on the first step and the seventh floor",
+        "Locations": "First step and seventh floor of the stairs"
+    },
+    "Small Blue Doors": {
+        "Attributes": "Two small blue doors with diamond patterns",
+        "Locations": "Right side of the stairs"
+    }
+}

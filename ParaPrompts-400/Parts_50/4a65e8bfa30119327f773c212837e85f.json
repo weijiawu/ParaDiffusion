@@ -1,0 +1,62 @@
+{
+    "Sofa": {
+        "Attributes": "black leather, three-person",
+        "Locations": "on a black-brown floor"
+    },
+    "Pillow 1": {
+        "Attributes": "brown",
+        "Locations": "on the sofa"
+    },
+    "Pillow 2": {
+        "Attributes": "dark blue",
+        "Locations": "on the sofa"
+    },
+    "Stool": {
+        "Attributes": "black-brown wooden",
+        "Locations": "in the middle"
+    },
+    "Frames": {
+        "Attributes": "irregular, yellow",
+        "Locations": "in front of the stool"
+    },
+    "Window": {
+        "Attributes": "rectangular, yellow framed",
+        "Locations": "below the window"
+    },
+    "Plant Pots": {
+        "Attributes": "blue and white",
+        "Locations": "on the window"
+    },
+    "Table": {
+        "Attributes": "brown",
+        "Locations": "on the window"
+    },
+    "Chair 1": {
+        "Attributes": "brown, single",
+        "Locations": "on the window"
+    },
+    "Chair 2": {
+        "Attributes": "brown, single",
+        "Locations": "on the window"
+    },
+    "Chandelier": {
+        "Attributes": "small, black",
+        "Locations": "hanging"
+    },
+    "Kitchen Cabinet": {
+        "Attributes": "rectangular",
+        "Locations": "on the left"
+    },
+    "Kitchen Utensils": {
+        "Attributes": "various",
+        "Locations": "placed on the kitchen cabinet"
+    },
+    "Stone Wall": {
+        "Attributes": "irregular, gray, brown, black, blue",
+        "Locations": "on the left"
+    },
+    "Stove Box": {
+        "Attributes": "black",
+        "Locations": "on the left"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Wooden Shelves": {
+        "Attributes": "Two shelves, containing magazines and books",
+        "Locations": "On the left and right sides"
+    },
+    "Long Table": {
+        "Attributes": "Contains many toys",
+        "Locations": "In the middle on the ground"
+    },
+    "Woven Bags": {
+        "Attributes": "Hanging items",
+        "Locations": "On the wall behind"
+    },
+    "Brooms and Mops": {
+        "Attributes": "Cleaning tools",
+        "Locations": "On the wall behind"
+    },
+    "Cabinet": {
+        "Attributes": "Contains drinks, water, candies, and sundries",
+        "Locations": "Next to the wall with woven bags"
+    },
+    "Small Table": {
+        "Attributes": "Contains keys and locks",
+        "Locations": "Next to the cabinet"
+    },
+    "Yellow Sign": {
+        "Attributes": "Contains instructions for unlocking, changing the lock cylinder, and contact number",
+        "Locations": "Hanging in front of the small table"
+    },
+    "Woman": {
+        "Attributes": "Wearing rose red and black polka dot clothes, hat, glasses, black pants, black leather shoes, holding something in her right hand",
+        "Locations": "Sitting next to the small table"
+    }
+}

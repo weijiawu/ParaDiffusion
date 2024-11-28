@@ -1,0 +1,34 @@
+{
+    "Ground": {
+        "Attributes": "old, dirty",
+        "Locations": "under coconut trees"
+    },
+    "Coconut Trees": {
+        "Attributes": "different heights, different shapes, green and yellow leaves",
+        "Locations": "scattered in different positions"
+    },
+    "Chairs": {
+        "Attributes": "two chairs, different colors",
+        "Locations": "under the tree"
+    },
+    "Bench": {
+        "Attributes": "single bench",
+        "Locations": "in front of the tree"
+    },
+    "Additional Chairs": {
+        "Attributes": "many chairs",
+        "Locations": "in front of the bench"
+    },
+    "People": {
+        "Attributes": "men and women, wearing clothes of different colors",
+        "Locations": "some lying down, some standing"
+    },
+    "Sea": {
+        "Attributes": "blue water",
+        "Locations": "not specified"
+    },
+    "Sky": {
+        "Attributes": "blue sky, white clouds",
+        "Locations": "above"
+    }
+}

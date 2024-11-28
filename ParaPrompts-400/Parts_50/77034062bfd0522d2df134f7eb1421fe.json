@@ -1,0 +1,70 @@
+{
+    "Man 1": {
+        "Attributes": "wearing green short-sleeved striped trousers, frowning, holding a rolling pin in left hand and a shovel in right hand",
+        "Locations": "standing near the pot with pancakes"
+    },
+    "Rolling Pin": {
+        "Attributes": "one side pressed on the shovel",
+        "Locations": "held in the left hand of Man 1"
+    },
+    "Shovel": {
+        "Attributes": "pressed on the pancake",
+        "Locations": "held in the right hand of Man 1"
+    },
+    "Pancake": {
+        "Attributes": "placed on the pan",
+        "Locations": "under the shovel and rolling pin"
+    },
+    "Pan": {
+        "Attributes": "contains a pancake and surrounded by seven pancakes",
+        "Locations": "on top of a large stone"
+    },
+    "Large Stone": {
+        "Attributes": "underneath the pot",
+        "Locations": "supporting the pan"
+    },
+    "Wooden Box 1": {
+        "Attributes": "with flour panels on top",
+        "Locations": "behind Man 1"
+    },
+    "Wooden Box 2": {
+        "Attributes": "with a wooden board on top, blue on one side",
+        "Locations": "to the right of the pot"
+    },
+    "Newspaper": {
+        "Attributes": "with a piece of cake on it",
+        "Locations": "on top of Wooden Box 2"
+    },
+    "Piece of Cake": {
+        "Attributes": "on the newspaper",
+        "Locations": "on top of Wooden Box 2"
+    },
+    "White Porcelain Plate": {
+        "Attributes": "upside-down",
+        "Locations": "on top of the newspaper on Wooden Box 2"
+    },
+    "Large Metal Plate": {
+        "Attributes": "with food on it",
+        "Locations": "next to the wooden board on Wooden Box 2"
+    },
+    "Plates": {
+        "Attributes": "two more plates surrounding the large metal plate",
+        "Locations": "next to the large metal plate"
+    },
+    "Man 2": {
+        "Attributes": "wearing blue short-sleeves and red pants, one hand on the blue pillar",
+        "Locations": "behind Wooden Box 2"
+    },
+    "Blue Pillar": {
+        "Attributes": "next to Man 2",
+        "Locations": "near Man 2"
+    },
+    "People": {
+        "Attributes": "two other people",
+        "Locations": "in front of Man 2"
+    },
+    "Wooden Box 3": {
+        "Attributes": "with a glass box on top",
+        "Locations": "next to the boy"
+    }
+}

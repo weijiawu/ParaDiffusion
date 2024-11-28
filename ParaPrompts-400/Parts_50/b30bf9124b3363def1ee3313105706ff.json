@@ -1,0 +1,38 @@
+{
+    "Man": {
+        "Attributes": "wearing a black Chinese tunic suit and black leather shoes",
+        "Locations": "standing in front of a yellow wall, looking at the woman"
+    },
+    "Woman": {
+        "Attributes": "wearing a blue Chinese dress, black pants, and black shoes",
+        "Locations": "standing in front of a yellow wall"
+    },
+    "Bicycle": {
+        "Attributes": "old-fashioned, 28 years old, with China Post shipping bags",
+        "Locations": "behind the man"
+    },
+    "Wall": {
+        "Attributes": "yellow",
+        "Locations": "behind the man and woman"
+    },
+    "Painting": {
+        "Attributes": "of a little boy wearing a red scarf",
+        "Locations": "on the wall"
+    },
+    "Little Boy in Painting": {
+        "Attributes": "wearing a red scarf, looking towards the painted window",
+        "Locations": "in the painting on the wall"
+    },
+    "Green Shoulder Bag": {
+        "Attributes": "green",
+        "Locations": "on the right side of the boy in the painting"
+    },
+    "Dry Wall-Creeper": {
+        "Attributes": "dry",
+        "Locations": "on the left side of the bicycle"
+    },
+    "Piece of Green Grass": {
+        "Attributes": "green",
+        "Locations": "on the left side of the bicycle"
+    }
+}

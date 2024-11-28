@@ -1,0 +1,30 @@
+{
+    "Water Glasses": {
+        "Attributes": "Different colors, containing various drinks, some with cup holders",
+        "Locations": "On the wooden table"
+    },
+    "Pizza Plates": {
+        "Attributes": "Three plates, two with cutlery, pizza, and fried apples, one with red sauce, fried donuts, and chicken nuggets",
+        "Locations": "On the left side of the table"
+    },
+    "Set Meal Plates": {
+        "Attributes": "Three plates with different set meals",
+        "Locations": "On the right side of the table"
+    },
+    "Mobile Phone": {
+        "Attributes": "Pink cover",
+        "Locations": "Next to the set meal plates"
+    },
+    "Person": {
+        "Attributes": "Wearing a green long coat",
+        "Locations": "Looking at the mobile phone"
+    },
+    "Blue Stripe": {
+        "Attributes": "Longer",
+        "Locations": "On the table"
+    },
+    "Iron Bucket": {
+        "Attributes": "Black and white, with English writing",
+        "Locations": "On the cement floor"
+    }
+}

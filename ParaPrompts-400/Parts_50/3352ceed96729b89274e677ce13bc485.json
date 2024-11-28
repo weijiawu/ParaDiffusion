@@ -1,0 +1,30 @@
+{
+    "Old Man": {
+        "Attributes": "wearing a black coat and top hat, holding a blue document, legs crossed",
+        "Locations": "sitting on a black chair on the balcony, facing the distance with his back turned"
+    },
+    "Red Flowers": {
+        "Attributes": "two pots",
+        "Locations": "on the balcony guardrail"
+    },
+    "Leisure People": {
+        "Attributes": "none specified",
+        "Locations": "downstairs"
+    },
+    "Blurry Buildings": {
+        "Attributes": "none specified",
+        "Locations": "in the distance"
+    },
+    "Green Lawns": {
+        "Attributes": "none specified",
+        "Locations": "in the distance"
+    },
+    "Big Trees": {
+        "Attributes": "a few",
+        "Locations": "planted in the distance"
+    },
+    "Sky": {
+        "Attributes": "blue with white clouds",
+        "Locations": "above the head"
+    }
+}

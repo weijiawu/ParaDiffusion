@@ -1,0 +1,38 @@
+{
+    "Dining Table": {
+        "Attributes": "white, with a vase on it",
+        "Locations": "center of the dining area"
+    },
+    "Dining Chairs": {
+        "Attributes": "six, neatly placed",
+        "Locations": "around the dining table"
+    },
+    "Sofas": {
+        "Attributes": "set of sofas",
+        "Locations": "behind the dining table"
+    },
+    "TV": {
+        "Attributes": "hanging",
+        "Locations": "on the far wall"
+    },
+    "Chandeliers": {
+        "Attributes": "two, identical",
+        "Locations": "above the dining room"
+    },
+    "Dark Corner": {
+        "Attributes": "dark due to light problems",
+        "Locations": "further back in the room"
+    },
+    "Windows": {
+        "Attributes": "large, bright",
+        "Locations": "on the left"
+    },
+    "Curtain": {
+        "Attributes": "large, does not block sunlight",
+        "Locations": "hanging in the middle of the windows"
+    },
+    "Bedroom Door": {
+        "Attributes": "tightly closed",
+        "Locations": "to the right"
+    }
+}

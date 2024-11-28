@@ -1,0 +1,46 @@
+{
+    "Floor": {
+        "Attributes": "wood",
+        "Locations": "house"
+    },
+    "Sofa": {
+        "Attributes": "six pillows",
+        "Locations": "left side"
+    },
+    "LCD TV": {
+        "Attributes": "none",
+        "Locations": "on the wall opposite the sofa"
+    },
+    "Desk Lamps": {
+        "Attributes": "none",
+        "Locations": "on both sides of the sofa"
+    },
+    "Coffee Table": {
+        "Attributes": "small, wooden",
+        "Locations": "in front of the sofa"
+    },
+    "Dining Table": {
+        "Attributes": "wooden",
+        "Locations": "next to the coffee table"
+    },
+    "Chairs": {
+        "Attributes": "six, white",
+        "Locations": "under the dining table"
+    },
+    "Floor-to-Ceiling Window": {
+        "Attributes": "none",
+        "Locations": "on the other side of the coffee table"
+    },
+    "Small Sofas": {
+        "Attributes": "two",
+        "Locations": "in front of the window"
+    },
+    "Small Table with Bottles": {
+        "Attributes": "none",
+        "Locations": "in front of the window"
+    },
+    "Chandelier": {
+        "Attributes": "none",
+        "Locations": "on the ceiling"
+    }
+}

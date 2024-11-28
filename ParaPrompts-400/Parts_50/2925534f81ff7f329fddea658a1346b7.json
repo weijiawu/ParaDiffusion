@@ -1,0 +1,38 @@
+{
+    "Man": {
+        "Attributes": "brown hair, dark sweater",
+        "Locations": "sat at the kitchen table"
+    },
+    "Playing Cards": {
+        "Attributes": "held in hand, covering nose and mouth, exposing two eyes",
+        "Locations": "in the man's hand"
+    },
+    "Kitchen Table": {
+        "Attributes": "same wood grain color as cabinets",
+        "Locations": "where the man is sitting"
+    },
+    "Cabinets": {
+        "Attributes": "same wood grain color as table",
+        "Locations": "behind the table"
+    },
+    "Food": {
+        "Attributes": "light yellow",
+        "Locations": "on top of the cupboard"
+    },
+    "White Kettle": {
+        "Attributes": "white",
+        "Locations": "to the right of the cutting board"
+    },
+    "Miscellaneous Items": {
+        "Attributes": "unspecified",
+        "Locations": "to the right of the cutting board"
+    },
+    "Bottle of Water": {
+        "Attributes": "unspecified",
+        "Locations": "to the right of the cutting board"
+    },
+    "Range Hood": {
+        "Attributes": "small",
+        "Locations": "above the cabinet"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "Foxes": {
+        "Attributes": "Four foxes with brown fur",
+        "Locations": "Sitting on a leather sofa chair"
+    },
+    "Table": {
+        "Attributes": "Wooden brown",
+        "Locations": "In front of the sofa chair"
+    },
+    "Wine Glasses": {
+        "Attributes": "Two glasses of wine",
+        "Locations": "On the table"
+    },
+    "Wine Bottle": {
+        "Attributes": "A bottle of wine",
+        "Locations": "On the table"
+    },
+    "Coins": {
+        "Attributes": "A stack of coins",
+        "Locations": "On the table"
+    },
+    "Playing Cards": {
+        "Attributes": "A stack of playing cards",
+        "Locations": "On the table"
+    },
+    "Middle Fox": {
+        "Attributes": "Holding poker cards, big cigarette in mouth",
+        "Locations": "In the middle, sitting on the sofa"
+    },
+    "Little Fox": {
+        "Attributes": "Little fox",
+        "Locations": "Sitting next to the middle fox"
+    },
+    "Left Fox": {
+        "Attributes": "Holding a cigarette in right hand, four playing cards, two coins",
+        "Locations": "Sitting on the left side of the table"
+    },
+    "Right Fox": {
+        "Attributes": "Holding a cigarette in left hand, hand on two playing cards, two coins on playing cards, a playing card in front",
+        "Locations": "Sitting on the right side of the table"
+    },
+    "Chandelier": {
+        "Attributes": "Yellow",
+        "Locations": "Above their heads"
+    },
+    "Bookshelf": {
+        "Attributes": "With many items",
+        "Locations": "Behind the foxes"
+    },
+    "Chair Left": {
+        "Attributes": "Books, a bottle of wine, a glass of wine",
+        "Locations": "On the chair near the camera"
+    },
+    "Chair Right": {
+        "Attributes": "Copper cup, a bottle of wine",
+        "Locations": "On the chair"
+    },
+    "Wooden Box": {
+        "Attributes": "Oil lamp",
+        "Locations": "Next to the chair on the left"
+    }
+}

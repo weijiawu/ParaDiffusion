@@ -1,0 +1,46 @@
+{
+    "Cultural Landscape": {
+        "Attributes": "Located on the plateau, surrounded by orange-red walls at the top",
+        "Locations": "Inside the walls"
+    },
+    "Golden Palace Temple": {
+        "Attributes": "Golden, with slightly tilted eaves, built on an area raised to a certain height",
+        "Locations": "Inside the cultural landscape"
+    },
+    "Residential Building 1": {
+        "Attributes": "Dark yellow roof, white exterior walls",
+        "Locations": "To the right of the golden palace temple"
+    },
+    "Residential Building 2": {
+        "Attributes": "Light yellow roof, milky white exterior walls",
+        "Locations": "To the right of the golden palace temple"
+    },
+    "Competing House 1": {
+        "Attributes": "Red roof, gray walls",
+        "Locations": "Visible from the angle of view"
+    },
+    "Competing House 2": {
+        "Attributes": "Light blue roof, white walls",
+        "Locations": "Visible from the angle of view"
+    },
+    "Four-story Buildings": {
+        "Attributes": "Three buildings",
+        "Locations": "In the distance outside the wall"
+    },
+    "Three-story Building": {
+        "Attributes": "Red building",
+        "Locations": "In the distance outside the wall"
+    },
+    "Two-story Villa": {
+        "Attributes": "Single-family",
+        "Locations": "In the distance outside the wall"
+    },
+    "Mountains": {
+        "Attributes": "Bare, covered with dark clouds",
+        "Locations": "Surrounding the cultural landscape"
+    },
+    "Sky": {
+        "Attributes": "Blue where there are no clouds",
+        "Locations": "Above the mountains"
+    }
+}

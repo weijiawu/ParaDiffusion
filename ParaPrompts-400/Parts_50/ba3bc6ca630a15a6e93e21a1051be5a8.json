@@ -1,0 +1,30 @@
+{
+    "Houses": {
+        "Attributes": "triangular roof, white and brown walls, many windows",
+        "Locations": "beside a clear river, on both sides of the house"
+    },
+    "Ground": {
+        "Attributes": "open",
+        "Locations": "at the door of the house"
+    },
+    "Trees": {
+        "Attributes": "tall, mighty, green leaves",
+        "Locations": "planted at the door of the house"
+    },
+    "Cars": {
+        "Attributes": "one black, two white",
+        "Locations": "parked on the ground"
+    },
+    "Boats": {
+        "Attributes": "one white, one brown",
+        "Locations": "parked on the river bank"
+    },
+    "River": {
+        "Attributes": "clear, reflects shadows",
+        "Locations": "beside the row of houses"
+    },
+    "Sky": {
+        "Attributes": "blue",
+        "Locations": "above"
+    }
+}

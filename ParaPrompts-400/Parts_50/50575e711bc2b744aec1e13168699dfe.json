@@ -1,0 +1,26 @@
+{
+    "Old Man": {
+        "Attributes": "wearing a blue shirt, long curly white hair, beard, deep black eyes, tall nose, thin fair skin",
+        "Locations": "in the middle of the painting"
+    },
+    "Stone Wall": {
+        "Attributes": "brown, arched",
+        "Locations": "next to the old man"
+    },
+    "Trees": {
+        "Attributes": "green",
+        "Locations": "growing on the right side of the stone wall"
+    },
+    "Grassland": {
+        "Attributes": "green",
+        "Locations": "behind the old man"
+    },
+    "House": {
+        "Attributes": "yellow walls, black spire",
+        "Locations": "in front of the grassland"
+    },
+    "Sky": {
+        "Attributes": "blue",
+        "Locations": "above the house"
+    }
+}

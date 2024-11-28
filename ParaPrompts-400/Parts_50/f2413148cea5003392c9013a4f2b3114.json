@@ -1,0 +1,34 @@
+{
+    "Building": {
+        "Attributes": "Built on a brick road, with an arch, two arched windows, a square window, English words engraved on windows and doors, puppy-shaped decoration on the roof",
+        "Locations": "Central structure"
+    },
+    "Arched Windows": {
+        "Attributes": "Two arched windows",
+        "Locations": "On the left and right sides of the arch"
+    },
+    "Square Window": {
+        "Attributes": "One square window",
+        "Locations": "Part of the building"
+    },
+    "Flower Baskets": {
+        "Attributes": "Hanging flower baskets",
+        "Locations": "On both sides of the arched windows"
+    },
+    "Lights": {
+        "Attributes": "Lights",
+        "Locations": "On each side of the arch"
+    },
+    "Green Plants": {
+        "Attributes": "Green plants",
+        "Locations": "Planted on both sides of the building"
+    },
+    "Stone Pillar": {
+        "Attributes": "Stone pillar with a sculpture of a puppy",
+        "Locations": "On the right side in front of the building"
+    },
+    "Adjacent Building": {
+        "Attributes": "Building with four windows",
+        "Locations": "Behind the main building"
+    }
+}

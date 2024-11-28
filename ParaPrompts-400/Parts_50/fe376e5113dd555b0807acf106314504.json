@@ -1,0 +1,46 @@
+{
+    "Old Man": {
+        "Attributes": "gray hair, wearing a purple shirt with small white flowers, blue pants with white flowers, red slippers",
+        "Locations": "sitting on the threshold"
+    },
+    "Rattan Sieve": {
+        "Attributes": "on the old man's legs",
+        "Locations": "on the old man's legs"
+    },
+    "Garlic": {
+        "Attributes": "being peeled, a few heads placed under the sieve, some skins next to the left leg",
+        "Locations": "under the sieve, next to the left leg"
+    },
+    "Plastic Bags": {
+        "Attributes": "several",
+        "Locations": "next to the right leg"
+    },
+    "White Dog": {
+        "Attributes": "nestled",
+        "Locations": "behind the threshold"
+    },
+    "Broom": {
+        "Attributes": "hanging",
+        "Locations": "on the left side of the door"
+    },
+    "Windows": {
+        "Attributes": "two, open",
+        "Locations": "on the right side of the door"
+    },
+    "Big Stone": {
+        "Attributes": "big",
+        "Locations": "on the right side of the door"
+    },
+    "Umbrella": {
+        "Attributes": "yellow and green",
+        "Locations": "on the big stone"
+    },
+    "Wooden Stick": {
+        "Attributes": "in front of the old man",
+        "Locations": "in front of the old man"
+    },
+    "Rattan Tool": {
+        "Attributes": "purple and white, round",
+        "Locations": "on top of the wooden stick"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Man 1": {
+        "Attributes": "wearing a black shirt and black pants",
+        "Locations": "sitting on a small green plastic stool"
+    },
+    "Stool": {
+        "Attributes": "small, green, plastic",
+        "Locations": "under the man"
+    },
+    "Frame": {
+        "Attributes": "white",
+        "Locations": "in front of the man"
+    },
+    "Kitchen Utensils 1": {
+        "Attributes": "stainless steel",
+        "Locations": "underneath the white frame"
+    },
+    "Kitchen Utensils 2": {
+        "Attributes": "stainless steel",
+        "Locations": "next to the white frame"
+    },
+    "Plastic Bottle": {
+        "Attributes": "blue",
+        "Locations": "next to the white frame"
+    },
+    "Group of People": {
+        "Attributes": "none specified",
+        "Locations": "to the left of the man"
+    },
+    "Girl 1": {
+        "Attributes": "wearing a hat and black clothes",
+        "Locations": "in front of the man"
+    },
+    "Girl 2": {
+        "Attributes": "wearing a blue sweatshirt and black and white plaid trousers",
+        "Locations": "behind Girl 1"
+    },
+    "Girl 3": {
+        "Attributes": "long-haired, wearing a green top, black pants, carrying a black schoolbag",
+        "Locations": "behind the man"
+    },
+    "Boy 1": {
+        "Attributes": "wearing a white mask",
+        "Locations": "facing a man with a black schoolbag"
+    },
+    "Man 2": {
+        "Attributes": "carrying a black schoolbag, wearing a black top and black pants",
+        "Locations": "facing Boy 1"
+    },
+    "Girl 4": {
+        "Attributes": "wearing a brown hat and a long coat",
+        "Locations": "behind the group facing the man"
+    },
+    "Boy 2": {
+        "Attributes": "wearing a black hat",
+        "Locations": "behind the group facing the man"
+    },
+    "Wall": {
+        "Attributes": "none specified",
+        "Locations": "next to the team"
+    },
+    "Sign": {
+        "Attributes": "light sign of Uncle Qin Fei\u2019s Guilin Rice Noodles",
+        "Locations": "hanging on the wall"
+    }
+}

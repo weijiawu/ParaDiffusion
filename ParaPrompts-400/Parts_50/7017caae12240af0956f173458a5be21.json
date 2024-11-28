@@ -1,0 +1,30 @@
+{
+    "Tractor": {
+        "Attributes": "Two large black rear wheels with yellow hubs, two smaller front wheels with yellow hubs, two red handrails on the seat, yellow plow on green frame",
+        "Locations": "Under a triangular simple pergola on the green grass"
+    },
+    "Pergola": {
+        "Attributes": "Triangular, simple",
+        "Locations": "Above the tractor on the green grass"
+    },
+    "Steeple House": {
+        "Attributes": "Red walls, white foundation, square window at the top, rectangular door at the bottom",
+        "Locations": "Under the big tree, in front of the tractor"
+    },
+    "Big Tree": {
+        "Attributes": "Large",
+        "Locations": "In front of the tractor, above the steeple house"
+    },
+    "Forest": {
+        "Attributes": "Dense",
+        "Locations": "On the left"
+    },
+    "Concrete Step": {
+        "Attributes": "Concrete",
+        "Locations": "In front of the door of the steeple house"
+    },
+    "Pergola 2": {
+        "Attributes": "Similar to the one above the tractor",
+        "Locations": "In front of the steeple house"
+    }
+}

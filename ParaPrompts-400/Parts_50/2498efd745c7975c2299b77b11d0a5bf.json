@@ -1,0 +1,26 @@
+{
+    "Street Lights": {
+        "Attributes": "Turned on, reflecting yellow and red light",
+        "Locations": "City streets"
+    },
+    "Passers-by": {
+        "Attributes": "Standing, waiting for the bus",
+        "Locations": "On the street"
+    },
+    "Person with Stroller": {
+        "Attributes": "Pushing a stroller, wearing a white hat, bending down, covering children with quilts",
+        "Locations": "Middle of the street"
+    },
+    "Ladies": {
+        "Attributes": "Wearing dark trench coats, one carrying a backpack, the other carrying a shoulder bag",
+        "Locations": "To the left of the person with the stroller"
+    },
+    "Red Light": {
+        "Attributes": "Turned on",
+        "Locations": "Middle of the road"
+    },
+    "Tall Buildings": {
+        "Attributes": "A few lights lit up",
+        "Locations": "In the distance"
+    }
+}

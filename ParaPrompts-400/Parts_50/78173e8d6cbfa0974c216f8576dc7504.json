@@ -1,0 +1,34 @@
+{
+    "Desk": {
+        "Attributes": "dark brown",
+        "Locations": "middle of the picture"
+    },
+    "Desk Lamp": {
+        "Attributes": "steel structure",
+        "Locations": "left side of the desk"
+    },
+    "Books": {
+        "Attributes": "four books stacked",
+        "Locations": "right side of the desk"
+    },
+    "Chair": {
+        "Attributes": "hollow backrest, roller",
+        "Locations": "behind the desk"
+    },
+    "Cabinets": {
+        "Attributes": "four-layer, first layer with lighting, second layer with books and file cabinets, third layer with books and cups, fourth layer with four cabinets",
+        "Locations": "left side of the desk, against the wall"
+    },
+    "Armchair": {
+        "Attributes": "steel structure, gray-brown backrest",
+        "Locations": "right side of the desk"
+    },
+    "Floor Lamp": {
+        "Attributes": "none specified",
+        "Locations": "right side of the armchair"
+    },
+    "Painting": {
+        "Attributes": "none specified",
+        "Locations": "on the wall behind the lamp"
+    }
+}

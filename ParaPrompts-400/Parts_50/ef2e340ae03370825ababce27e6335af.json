@@ -1,0 +1,34 @@
+{
+    "Table": {
+        "Attributes": "white, with a lot of food",
+        "Locations": "n/a"
+    },
+    "Drink": {
+        "Attributes": "n/a",
+        "Locations": "left side of the table"
+    },
+    "White Plates": {
+        "Attributes": "two plates, one with fat beef, one with kelp",
+        "Locations": "left side of the table"
+    },
+    "Hot Pot": {
+        "Attributes": "four-square, with two water pots, a spicy pot, and a mushroom soup pot",
+        "Locations": "middle of the table"
+    },
+    "Spoons": {
+        "Attributes": "two spoons at each foot of the hot pot",
+        "Locations": "at each foot of the hot pot"
+    },
+    "Man": {
+        "Attributes": "holding chopsticks",
+        "Locations": "above the pot"
+    },
+    "Small Bowls": {
+        "Attributes": "two bowls of ingredients",
+        "Locations": "in front of the man"
+    },
+    "Pots of Food": {
+        "Attributes": "four pots, one with tripe, one empty, one with pig brains, one with cantaloupe",
+        "Locations": "right side of the table"
+    }
+}

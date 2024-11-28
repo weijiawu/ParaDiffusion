@@ -1,0 +1,22 @@
+{
+    "Building 1 (Middle)": {
+        "Attributes": "Yellow wall paint, dark green security door, sliding white windows, dark green wooden windows and doors",
+        "Locations": "Middle of the row of buildings"
+    },
+    "Building 2 (Left)": {
+        "Attributes": "Green wall paint, brown windows and doors",
+        "Locations": "Left of the middle building"
+    },
+    "Building 3 (Right)": {
+        "Attributes": "Purple wall paint, dark green window",
+        "Locations": "Right of the middle building"
+    },
+    "Bicycle": {
+        "Attributes": "Parked",
+        "Locations": "Next to the window of the middle building"
+    },
+    "Old Man": {
+        "Attributes": "Wearing a yellow down jacket and jeans",
+        "Locations": "Walking by the buildings"
+    }
+}
