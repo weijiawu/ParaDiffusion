@@ -8,7 +8,7 @@
 
 ## :notes: **Updates**
 
-
+- [x] Mar. 24, 2025. The paper was finally accepted by IJCV.
 - [x] Mar. 24, 2024. The inference code have been released.
 - [x] Nov. 28, 2023. ParaPrompts-400 and ParaImage-3k have been released.
 - [x] Nov. 15, 2023. Rep initialization.
